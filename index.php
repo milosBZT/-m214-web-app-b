@@ -9,6 +9,7 @@
 <style>
 #container {
   display: flex;
+  width: 60%;
   margin-top: 30px;
   margin-left: auto;
   maring-right: auto;
