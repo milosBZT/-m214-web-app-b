@@ -8,11 +8,13 @@
 
 <style>
 #container {
-  margin-top: 10px;
+  display: flex;
+  margin-top: 30px;
+  margin-left: auto;
+  maring-right: auto;
   background: #f5f5f5;
   color: #444444;
   font-family: "Arial";
-  display: flex;
   justify-content: center;
   border-radius: 3px;
   box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.3);
