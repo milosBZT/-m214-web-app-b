@@ -12,7 +12,7 @@
   width: 60%;
   margin-top: 30px;
   margin-left: auto;
-  maring-right: auto;
+  margin-right: auto;
   background: #f5f5f5;
   color: #444444;
   font-family: "Arial";
